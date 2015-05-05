@@ -1,0 +1,50 @@
+.grid_vis {
+  display: none;
+}
+
+.nav_menu {
+  position: fixed;
+  background: white;
+  border-bottom: 2px solid black;
+  width: 100%;
+  display: block;
+  z-index: 999;
+}
+
+.nav_menu p {
+  background: white;
+}
+
+.projects {
+  padding-top: 50px;
+  display: block;
+}
+
+.projects--project {
+  border: 1px solid gray;
+  margin-top: 50px;
+  display: block;
+  height: 250px;
+}
+
+.projects--project p {
+  padding: 10px 10px;
+}
+
+.project_1 {
+  background: url('../assets/articlemapping.png');
+  background-size: cover;
+  border: none;
+}
+
+.project_2 {
+  background: url('../assets/twitterdiversity.png');
+  background-size: cover;
+}
+
+.project_final {
+  background: url('../assets/muslimwomen.png');
+  background-size: cover;
+  border: none;
+  margin-bottom: 50px;
+}

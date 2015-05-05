@@ -1,4 +1,6 @@
 PortfolioSite::Application.routes.draw do
+  
+  get "/" => 'application#index'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

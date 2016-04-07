@@ -6,6 +6,9 @@ html {
 }
 body {
   margin: 0;
+  /* added to pad the body for the fixed nav */
+  padding-top: 70px;
+  font-size: 16px;
 }
 article,
 aside,

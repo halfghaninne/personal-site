@@ -1,7 +1,28 @@
 .art-image{
-  background: url("../isabel-del-rio.png");
+  background: url("../public/headshot.jpg");
 }
 
 .project-role{
-  font-style: italic;
+  color: #777
+}
+
+.project-link {
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+/* trying to overwrite Bootstrap */
+.thumbnail {
+  margin-bottom:50px;
+  border: none;
+}
+
+.dropdown-menu {
+  border: none;
+  box-shadow: none;
+}
+
+
+.navbar-nav a {
+  font-size: 16px;
 }

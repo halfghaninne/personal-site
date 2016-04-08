@@ -7,8 +7,8 @@ html {
 body {
   margin: 0;
   /* added to pad the body for the fixed nav */
-  padding-top: 60px;
-  font-size: 16px;
+  padding-top: 50px;
+  font-size: 14px;
 }
 article,
 aside,
@@ -772,12 +772,14 @@ pre code {
 }
 @media (min-width: 992px) {
   .container {
-    width: 880px;
+    /*width: 880px;*/
+    width: 992px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1020px;
+    /*width: 1020px;*/
+    width: 1100px;
   }
 }
 .container-fluid {
@@ -3455,7 +3457,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 14px 10px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 22px;
   height: 50px;
 }

@@ -1,11 +1,49 @@
-.art-image{
+/*.art-image{
   background: url("../public/KimberlyBailey-2.jpg");
-  /*background-size: cover;*/
-  min-width: 100%;
+  background-size: auto 100%;
   background-repeat: no-repeat;
-  /*background-attachment: fixed;*/
-  background-position: -300px -200px; 
+}*/
+
+@media screen and (min-width: 1220px) {
+  .art-image {
+    background: url("../public/KimberlyBailey-2.jpg");
+    /*background-size: width height;*/
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+  }
 }
+@media screen and (max-width: 1220px) {
+  .art-image {
+    background: url("../public/KimberlyBailey-2.jpg");
+    /*background-size: width height;*/
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+  }
+}
+@media screen and (max-width: 1130px) {
+  .art-image {
+    background: url("../public/KimberlyBailey-2.jpg");
+    /*background-size: width height;*/
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+  }
+  #intro-text {
+    text-align: left;
+  }
+}
+@media screen and (max-width: 630px) {
+  h1.block-title {
+    font-size: 54px;
+  }
+}
+
+.about-image {
+  background: url("../public/teal.jpg");
+  /*background-size: width height;*/
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
 
 .project-role{
   color: #777

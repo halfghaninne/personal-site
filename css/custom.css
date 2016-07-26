@@ -1,5 +1,10 @@
 .art-image{
-  background: url("../public/headshot.jpg");
+  background: url("../public/KimberlyBailey-2.jpg");
+  /*background-size: cover;*/
+  min-width: 100%;
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-position: -300px -200px; 
 }
 
 .project-role{
@@ -22,7 +27,41 @@
   box-shadow: none;
 }
 
+.social span {
+  color: #DF3D35;
+}
+
+.social span:hover {
+  opacity: 0.7;
+}
+
+.roles-text {
+  color: white; 
+  text-shadow: 0.5px 0.5px 20px #777;
+}
 
 .navbar-nav a {
   font-size: 16px;
+}
+
+.intro-fixed {
+  position: fixed;
+  /*right: 0;
+  left: 0;*/
+  z-index: 1030;
+}
+
+.intro-scroll {
+  padding-right: 35%;
+}
+
+.intro-name-style {
+  letter-spacing: .15em;
+  color: #888888;
+  text-transform: uppercase;
+}
+
+.thumbnail img {
+  width: 242px;
+  height: 200px;
 }

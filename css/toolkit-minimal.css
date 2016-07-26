@@ -8350,7 +8350,8 @@ h1.block-title {
   }
   .h1.block-title,
   h1.block-title {
-    font-size: 72px;
+    /*font-size: 72px;*/
+    font-size: 60px;
   }
 }
 .navbar-transparent {

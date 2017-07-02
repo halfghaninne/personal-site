@@ -103,3 +103,17 @@
   width: 242px;
   height: 200px;
 }
+
+iframe {
+  width: 90%;
+  height: 50vh;
+  margin-right: auto;
+  margin-left: auto;
+  border: none;
+}
+
+.thumbnail.talks {
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+}

@@ -36,6 +36,12 @@
     font-size: 54px;
   }
 }
+/* Responsive nav for mobile*/
+@media (max-width: 767px) {
+  nav div {
+    width: 100%;
+  }
+}
 
 .about-image {
   background: url("../public/teal.jpg");
@@ -116,4 +122,12 @@ iframe {
   width: 75%;
   margin-right: auto;
   margin-left: auto;
+  text-align: center;
+}
+
+.caption {
+    text-align: left;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
 }

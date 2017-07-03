@@ -22,10 +22,10 @@
 <body>
 
   <nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
+    <div class="container-fluid">
 
       <div class="navbar-header">
-        <a class="navbar-brand" href="home.html">Alexandra Millatmal</a>
+        <a class="navbar-brand" href="/">Alexandra Millatmal</a>
       </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -36,11 +36,11 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio</a>
             <ul class="dropdown-menu">
-              <li><a href="portfolio_code.html">Code</a></li>
-              <li><a href="portfolio_journalism.html">Journalism</a></li>
-              <li><a href="portfolio_talks.html">Talks</a></li>
+              <li><a href="portfolio_code.php">Code</a></li>
+              <li><a href="portfolio_journalism.php">Journalism</a></li>
+              <li><a href="portfolio_talks.php">Talks</a></li>
               <li role="separator" class="divider"></li>
-              <li><a href="resume.html">R&eacute;sum&eacute;</a></li>
+              <li><a href="resume.php">R&eacute;sum&eacute;</a></li>
             </ul>
           </li>
 
@@ -52,52 +52,6 @@
 
         </ul>
       </div>
-
     </div> 
     <!-- end of container div -->
   </nav>
-
-  <div class="page-content">
-  <!-- put this div here to eventually display dynamically with JS -->
-    <div class="block block-fill-height text-right art-image">
-      <div class="block-lg-top">
-        <div class="container" id="intro-text">
-          <!-- <h2 class="block-title text-muted intro-name-style">
-            Alexandra Millatmal
-          </h2> -->
-          <h1 class="block-title roles-text">
-            award-winning journalist.
-          </h1>
-          <h1 class="block-title roles-text">
-            coding instructor.
-          </h1>
-          <h1 class="block-title roles-text">
-            web dev.
-          </h1>
-          <h1 class="block-title roles-text">
-            feminist.
-          </h1>
-          <!-- <h1 class="block-title roles-text" id="intro-fill-in">
-          </h1> -->
-          <!-- <h4 class="text-muted">
-            Based in Omaha, Nebraska.
-          </h4> -->
-          <!-- <button class="btn btn-primary m-t"> -->
-          <!-- <button class="btn btn-info m-t">
-            Get to know me
-          </button> -->
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <script src="js/jquery.min.js"></script>
-  <script src="js/toolkit.js"></script>
-  <script src="js/application.js"></script>
-  <script src="js/custom.js"></script>
-
-  <!-- Your own JS can go here. -->
-</body>
-
-</html>

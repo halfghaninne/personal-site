@@ -36,6 +36,14 @@
     font-size: 54px;
   }
 }
+@media (max-width: 767px) {
+  .art-image {
+    background-position: center bottom;
+    padding-top: 0px;
+  }
+  .roles-text {
+  }
+}
 /* Responsive nav for mobile*/
 @media (max-width: 767px) {
   nav div {
@@ -118,6 +126,12 @@ iframe {
   border: none;
 }
 
+@media (max-width: 767px) {
+  iframe {
+    height: 25vh;
+  }
+}
+
 .thumbnail.talks {
   width: 75%;
   margin-right: auto;
@@ -126,8 +140,21 @@ iframe {
 }
 
 .caption {
-    text-align: left;
-    width: 80%;
-    margin-right: auto;
-    margin-left: auto;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+}
+
+.caption.talks {
+  width: 80%;
+}
+
+.caption.journalism {
+  width: 85%;
+}
+
+.thumbnail.talks img {
+  width: 100%;
+  height: auto;
 }

@@ -15,7 +15,7 @@
                 <a href="http://catalogchoice.org"><span class="icon icon-tv project-link"></span></a>
               </h3>
               <p class="project-role">Full-Stack Engineer</p>
-              <p>Unsubscribe from paper mailings.</p>
+              <p>Catalog Choice is a service that helps people unsubscribe from paper mailings.</p>
             </div>
           </div>
         </div>

@@ -4,6 +4,14 @@
   background-repeat: no-repeat;
 }*/
 
+.navbar-bottom {
+  display: none;
+}
+#intro-fill-in {
+  height: 0px;
+  visibility: hidden;
+}
+
 @media screen and (min-width: 1220px) {
   .art-image {
     background: url("../public/KimberlyBailey-2.jpg");
@@ -45,6 +53,7 @@
     display: none;
   }
   #intro-fill-in {
+    visibility: visible;
     color: white; 
     text-shadow: 0.5px 0.5px 20px #777;
   }
@@ -54,12 +63,28 @@
   #intro-fill-in a:hover {
     color: #DF3D35;
   }
+  .navbar-bottom {
+    display: block;
+    margin-bottom: 0px;
+  }
+  .bottom-nav-flex {
+    display: flex;
+    justify-content: center;
+  }
+  .icon:before {
+    font-size: 120%;
+  }
 }
 /* Responsive nav for mobile*/
 @media (max-width: 767px) {
   nav div {
     width: 100%;
   }
+}
+@media (max-width: 768px) {
+/*  .navbar-bottom {
+    display: none;
+  }*/
 }
 
 .about-image {

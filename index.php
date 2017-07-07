@@ -10,7 +10,7 @@
           </h2> -->
           <h1 class="block-title" id="intro-fill-in">
           </h1>
-          <h1 class="block-title roles-text" id="intro-fill-in">
+          <h1 class="block-title roles-text">
             award-winning journalist.
           </h1>
           <h1 class="block-title roles-text">

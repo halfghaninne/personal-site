@@ -26,20 +26,18 @@ function loadDescriptors() {
     }
 }
 
-function loadRoles(){
-  var roleDivs = document.getElementsByClassName("roles-text");
-  for (i = 0; i < roleDivs.length; i++) {
-    console.log("showing the div");
-    roleDivs[i].id = 'show-me';
-    if (roleDivs[i-1]) {
-      roleDivs[i-1].removeAttribute("id");
-    }
-    console.log("hiding the div");
-    roleDivs[i].id = 'fade-out';
-  }
-}
-
 // function loopDescriptors(array) {
 // }
 
-window.onload = setTimeout(loadDescriptors(), 2500);
+window.onload = function(){
+  var introFillIn = document.getElementById("intro-fill-in");
+  if (introFillIn.visibility != "hidden") {
+    if (localStorage.getItem("hasCodeRunBefore") === null) {
+        setTimeout(loadDescriptors(), 2500);
+        localStorage.setItem("hasCodeRunBefore", true);
+    } else {
+      introFillIn.style = "text-align: right";
+      introFillIn.innerHTML = "<a href='./portfolio_code.php'>code</a><br><a href='./portfolio_journalism.php'>journalism</a><br><a href='./portfolio_talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
+    }; 
+  };
+};

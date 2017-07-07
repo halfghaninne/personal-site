@@ -12,7 +12,6 @@ function loadDescriptors() {
     if (introFillIn) {
       var i = 0;
       placeholder = setInterval(function(){
-        console.log("next descriptor");
         if (i == (descriptors.length - 1)) {
           introFillIn.style = "text-align: right";
         }
@@ -36,7 +35,9 @@ window.onload = function(){
         setTimeout(loadDescriptors(), 2500);
         localStorage.setItem("hasCodeRunBefore", true);
     } else {
-      introFillIn.style = "text-align: right";
+      // console.log(navigator.userAgent.indexOf("Safari") != -1);
+      introFillIn.style.textAlign = "-webkit-right";
+      // introFillIn.style = "text-align: -webkit-center";
       introFillIn.innerHTML = "<a href='./portfolio_code.php'>code</a><br><a href='./portfolio_journalism.php'>journalism</a><br><a href='./portfolio_talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
     }; 
   };

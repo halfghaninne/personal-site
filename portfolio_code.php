@@ -15,7 +15,7 @@
                 <a href="http://catalogchoice.org"><span class="icon icon-tv project-link"></span></a>
               </h3>
               <p class="project-role">Full-Stack Engineer</p>
-              <p>Catalog Choice is a service that helps people unsubscribe from paper mailings.</p>
+              <p>Refactored, fixed bugs, and executed features in an existing code base of a live application with 70k active users.</p>
             </div>
           </div>
         </div>

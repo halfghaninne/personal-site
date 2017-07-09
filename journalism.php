@@ -1,3 +1,4 @@
+<?php $active = "journalism"; ?>
 <?php include('_header.php') ?>
 
   <div class="container">
@@ -96,7 +97,7 @@
                 <a href="http://www.webbyawards.com/winners/2014/online-film-video/general-film-categories/news-politics-series/the-stream-meme-ifying-black-interviewees/"><span class="icon icon-trophy project-link"></span></a>
               </h3>
               <p class="project-role">Associate Producer, Al Jazeera English</p>
-              <p>Designed and implemented social media surrounding the episode, which was awarded a 2014 People's Voice Webby for Best News and Politics Series.</p>
+              <p>Designed and implemented social media surrounding the episode, which earned a 2014 People's Voice Webby for Best News and Politics Series.</p>
             </div>
           </div>
         </div>
@@ -110,7 +111,7 @@
                 <a href="http://www.aljazeera.com/pressoffice/2013/03/201332105344592341.html"><span class="icon icon-trophy project-link"></span></a>
               </h3>
               <p class="project-role">Editorial Intern, Al Jazeera English</p>
-              <p>Research, wrote web content, and soft-booked guests for the episode, which recieved a 2013 Gracie Award for Outstanding Talk Show.</p>
+              <p>Researched, wrote web content, and soft-booked guests for the episode, which recieved a 2013 Gracie Award for Outstanding Talk Show.</p>
             </div>
           </div>
         </div>
@@ -125,11 +126,4 @@
   </div>
 
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/toolkit.js"></script>
-  <script src="js/application.js"></script>
-
-  <!-- Your own JS can go here. -->
-</body>
-
-</html>
+  <?php include("_footer.php") ?>

@@ -33,15 +33,48 @@
         <ul class="nav navbar-nav">
           <!-- <li><a href="about.html">About</a></li> -->
 
-          <li class="dropdown">
+          <!-- <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio</a>
             <ul class="dropdown-menu">
-              <li><a href="portfolio_code.php">Code</a></li>
-              <li><a href="portfolio_journalism.php">Journalism</a></li>
-              <li><a href="portfolio_talks.php">Talks</a></li>
+              <li><a href="code.php">Code</a></li>
+              <li><a href="journalism.php">Journalism</a></li>
+              <li><a href="talks.php">Talks</a></li>
               <li role="separator" class="divider"></li>
               <li><a href="resume.php">R&eacute;sum&eacute;</a></li>
             </ul>
+          </li> -->
+
+          <li class="nav-item
+            <?php
+              if ($active && $active == "code")
+                echo "active";
+            ?>
+          ">
+            <a class="nav-link" href="code.php">Code</a>
+          </li>
+          <li class="nav-item
+            <?php
+              if ($active && $active == "journalism")
+                echo "active";
+            ?>
+          ">
+            <a class="nav-link" href="journalism.php">Journalism</a>
+          </li>
+          <li class="nav-item
+            <?php
+              if ($active && $active == "talks")
+                echo "active";
+            ?>
+          ">
+            <a class="nav-link" href="talks.php">Talks</a>
+          </li>
+          <li class="nav-item
+            <?php
+              if ($active && $active == "resume")
+                echo "active";
+            ?>
+          ">
+            <a class="nav-link" href="resume.php">R&eacute;sum&eacute;</a>
           </li>
 
           <li class="social"><a href="http://www.facebook.com/alexandrajmh" target="_blank"><span class="icon icon-facebook"></span></a></li>

@@ -74,6 +74,21 @@
   .icon:before {
     font-size: 120%;
   }
+  .mobile-break {
+    display: block;
+  }
+  span.project-title::after {
+    content: ' ';
+    display: block;
+  }
+  .icon.project-link {
+    margin-left: 0px;
+    margin-right: 10px;
+  }
+  /*.project-link:first-child:before{
+    content: "\A";
+    white-space: pre;
+  }*/
 }
 /* Responsive nav for mobile*/
 @media (max-width: 767px) {
@@ -193,4 +208,8 @@ iframe {
 .thumbnail.talks img {
   width: 100%;
   height: auto;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  color: #DF3D35;
 }

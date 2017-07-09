@@ -5,7 +5,7 @@
 //  fill with next item. (animate)
 
 function loadDescriptors() {
-  var descriptors = ["award-winning journalist.", "coding instructor.", "web dev.", "feminist.","<a href='./portfolio_code.php'>code</a><br><a href='./portfolio_journalism.php'>journalism</a><br><a href='./portfolio_talks.php'>talks</a><br><a href='./resume.php'>résumé</a>"];
+  var descriptors = ["award-winning journalist.", "coding instructor.", "web dev.", "feminist.","<a href='./code.php'>code</a><br><a href='./journalism.php'>journalism</a><br><a href='./talks.php'>talks</a><br><a href='./resume.php'>résumé</a>"];
   var placeholder;
   var introFillIn = document.getElementById("intro-fill-in");
   console.log(introFillIn);
@@ -38,7 +38,7 @@ window.onload = function(){
       // console.log(navigator.userAgent.indexOf("Safari") != -1);
       introFillIn.style.textAlign = "-webkit-right";
       // introFillIn.style = "text-align: -webkit-center";
-      introFillIn.innerHTML = "<a href='./portfolio_code.php'>code</a><br><a href='./portfolio_journalism.php'>journalism</a><br><a href='./portfolio_talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
+      introFillIn.innerHTML = "<a href='./code.php'>code</a><br><a href='./journalism.php'>journalism</a><br><a href='./talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
     }; 
   };
 };

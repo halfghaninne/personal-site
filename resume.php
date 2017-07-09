@@ -1,3 +1,4 @@
+<?php $active = "resume"; ?>
 <?php include('_header.php') ?>
 
   <div class="page-content">
@@ -14,11 +15,5 @@
   </div>
 
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/toolkit.js"></script>
-  <script src="js/application.js"></script>
-
-  <!-- Your own JS can go here. -->
-</body>
-
-</html>
+  
+  <?php include("_footer.php") ?>

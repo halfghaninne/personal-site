@@ -47,11 +47,11 @@
               <h3>
                 <span class="project-title">tarjim.li</span>
                 <a href="https://github.com/halfghaninne/tunisian-dictionary-2016"><span class="icon icon-github project-link"></span></a>
-                <a href="http://tarjim.li"><span class="icon icon-tv project-link"></span></a>
+                <!-- <a href="http://tarjim.li"><span class="icon icon-tv project-link"></span></a> -->
               </h3>
               <p class="project-role">Back-End Engineer, Product Owner</p>
               <!-- <p class="project-role">Ruby, Rails</p> -->
-              <p>Constructed schema to map English words to their Tunisian Arabic counterparts, packaged in a queryable user interface.</p>
+              <p>Constructed schema to map English words to their Tunisian Arabic counterparts, soon-to-be packaged in a queryable user interface.</p>
             </div>
           </div>
         </div>

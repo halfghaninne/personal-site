@@ -14,16 +14,22 @@
             <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, an international conference focused on empowering women software engineers.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
+          <div class="caption talks">
+            <h3>Writing for Developers Panel</h3>
+            <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
+            <p>Invited by conference organizers to moderate a panel on writing in the technical arena, how to publish and self-publish, and the impact this work has on the industry at large.</p>
+            <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
+          </div>
         </div>
       </div>
 
       <div class="row">
         <div class="thumbnail talks">
-          <img src="public/codecrush.png">
+          <img src="public/codecrush.jpg">
           <div class="caption talks">
             <h3>"Using Code For Good"</h3>
             <p class="project-role"><a href="https://codecrush.unomaha.edu/summit">Code Crush Summit 2017</a></p>
-            <p>Accepted to present on using code in your community at the 2017  regional Code Crush Summit, a program of the University of Nebraska at Omaha featuring keynote speaker Erica Joy Baker.</p>
+            <p>Led a workshop on using code for community impact at the 2017 regional Code Crush Summit, a program of the University of Nebraska at Omaha featuring keynote speaker Erica Joy Baker.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
         </div>

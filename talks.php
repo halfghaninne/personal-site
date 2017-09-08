@@ -14,6 +14,12 @@
             <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, an international conference focused on empowering women software engineers.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="thumbnail talks">
+          <img src="public/wscpanel.png">
           <div class="caption talks">
             <h3>Writing for Developers Panel</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>

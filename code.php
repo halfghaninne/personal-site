@@ -15,9 +15,9 @@
                 <span class="project-title">Catalog Choice</span>
                 <a href="http://catalogchoice.org"><span class="icon icon-tv project-link"></span></a>
               </h3>
-              <p class="project-role">Full-Stack Engineer</p>
+              <p class="project-role">Back-End Engineer</p>
               <!-- <p class="project-role">Ruby, Rails, HAML, SASS, JavaScript</p> -->
-              <p>Using Agile methodology, refactored, fixed bugs, and executed features in an existing code base of a live application with 70k active users.</p>
+              <p>Updated testing suite, refactored, added integrations, and maintained millions of records of data in an existing code base of a live application with 70k active users.</p>
             </div>
           </div>
         </div>
@@ -28,11 +28,11 @@
             <div class="caption">
               <h3>
                 <span class="project-title">Outcomes Tracker</span>
-                <a href="http://outcomestracker.omahacodeschool.com"><span class="icon icon-tv project-link"></span></a>
+                <a href="http://github.com/omahacodeschool/outcomestracker"><span class="icon icon-github project-link"></span></a>
               </h3>
-              <p class="project-role">Full-Stack Engineer</p>
+              <p class="project-role">Back-End Engineer</p>
               <!-- <p class="project-role">Ruby, Rails, HTML5, CSS3, JavaScript</p> -->
-              <p>Designed data architecture, managed tickets, and implemented features for the greenfield application which helps code school graduates track job applications and helps their school monitor and visualize outcomes.</p>
+              <p>Architected, led back-end development, and implemented features for the greenfield application which helps code school graduates track job applications and helps their school monitor and visualize outcomes. Currently, maintain the repository as an open-source project.</p>
             </div>
           </div>
         </div>
@@ -102,7 +102,7 @@
               </h3>
               <p class="project-role">Full-Stack Engineer</p>
               <!-- <p class="project-role">Ruby, Rails, HTML5, CSS3, JavaScript</p> -->
-              <p>For my very first full-stack web application, built a news CMS that geotags every article and displays a master map of reporting for the site.</p>
+              <p>An experimentation in CMS, geotagging, and third-party API integration with Mapbox.</p>
             </div>
           </div>
         </div>

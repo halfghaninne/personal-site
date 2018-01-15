@@ -23,7 +23,7 @@
           <div class="caption talks">
             <h3>Writing for Developers Panel</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Invited by conference organizers to moderate a panel on writing in the technical arena, how to publish and self-publish, and the impact this work has on the industry at large.</p>
+            <p>Invited by conference organizers to moderate a panel on writing in the technical arena, how to publish and self-publish, and the impact this work has on the industry at large. Speakers from left to right: Angie Jones, Katel Ledû, Lara Hogan, and Katherine Daniels.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
         </div>
@@ -35,7 +35,7 @@
           <div class="caption talks">
             <h3>"Using Code For Good"</h3>
             <p class="project-role"><a href="https://codecrush.unomaha.edu/summit">Code Crush Summit 2017</a></p>
-            <p>Led a workshop on using code for community impact at the 2017 regional Code Crush Summit, a program of the University of Nebraska at Omaha featuring keynote speaker Erica Joy Baker.</p>
+            <p>Invited to lead a workshop on using code for community impact at the 2017 regional Code Crush Summit, a program of the University of Nebraska at Omaha featuring keynote speaker Erica Joy Baker.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
         </div>

@@ -87,9 +87,9 @@
           </li>
 
           <li class="social"><a href="http://www.facebook.com/alexandrajmh" target="_blank"><span class="icon icon-facebook"></span></a></li>
-          <li class="social"><a href="http://www.linkedin.com/in/alexandrajmh" target="_blank"><span class="icon icon-linkedin"></span></a></li>
           <li class="social"><a href="http://www.twitter.com/halfghaninNE" target="_blank"><span class="icon icon-twitter"></span></a></li>
           <li class="social"><a href="http://www.github.com/halfghaninNE" target="_blank"><span class="icon icon-github"></span></a></li>
+          <li class="social"><a href="http://www.linkedin.com/in/alexandrajmh" target="_blank"><span class="icon icon-linkedin"></span></a></li>
           <!-- <li><a href="#"><span class="icon icon-paper-plane"></span></a></li> -->
 
         </ul>

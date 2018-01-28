@@ -11,7 +11,7 @@
           <div class="caption talks">
             <h3>"Why Not Get Paid to 'Protest'? Making Your Workplace Work for You in the Trump Era"</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, an international conference focused on empowering women software engineers.</p>
+            <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, an international conference focused on empowering women and non-binary software engineers.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
         </div>
@@ -23,7 +23,7 @@
           <div class="caption talks">
             <h3>Writing for Developers Panel</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Invited by conference organizers to moderate a panel on writing in the technical arena, how to publish and self-publish, and the impact this work has on the industry at large. Speakers from left to right: Angie Jones, Katel Ledû, Lara Hogan, and Katherine Daniels.</p>
+            <p>Invited by conference organizers to moderate a panel on writing in the technical arena, how to publish and self-publish, and the impact this work has on the industry at large. Speakers from left to right: Angie Jones, Katel Ledû, Lara Hogan, and Ryn Daniels.</p>
             <!-- <p><a href="#" class="btn btn-success-outline" role="button"> Watch <span class="icon icon-chevron-with-circle-right"></span></a></p> -->
           </div>
         </div>

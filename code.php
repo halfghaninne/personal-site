@@ -28,7 +28,7 @@
             <div class="caption">
               <h3>
                 <span class="project-title">Outcomes Tracker</span>
-                <a href="http://github.com/omahacodeschool/outcomestracker"><span class="icon icon-github project-link"></span></a>
+                <a href="http://github.com/omahacodeschool/outcomes-tracker"><span class="icon icon-github project-link"></span></a>
               </h3>
               <p class="project-role">Back-End Engineer</p>
               <!-- <p class="project-role">Ruby, Rails, HTML5, CSS3, JavaScript</p> -->

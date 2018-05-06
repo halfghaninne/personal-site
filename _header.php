@@ -59,7 +59,7 @@
                 echo "active";
             ?>
           ">
-            <a class="nav-link" href="code.php">Code</a>
+            <a class="nav-link" href="./code">Code</a>
           </li>
           <li class="nav-item
             <?php
@@ -67,7 +67,7 @@
                 echo "active";
             ?>
           ">
-            <a class="nav-link" href="journalism.php">Journalism</a>
+            <a class="nav-link" href="./journalism">Journalism</a>
           </li>
           <li class="nav-item
             <?php
@@ -75,7 +75,7 @@
                 echo "active";
             ?>
           ">
-            <a class="nav-link" href="talks.php">Talks</a>
+            <a class="nav-link" href="./talks">Talks</a>
           </li>
           <li class="nav-item
             <?php
@@ -83,7 +83,7 @@
                 echo "active";
             ?>
           ">
-            <a class="nav-link" href="resume.php">R&eacute;sum&eacute;</a>
+            <a class="nav-link" href="./resume">R&eacute;sum&eacute;</a>
           </li>
 
           <li class="social"><a href="http://www.twitter.com/halfghaninNE" target="_blank"><span class="icon icon-twitter"></span></a></li>

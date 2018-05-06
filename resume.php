@@ -26,8 +26,11 @@
               <h6 class="tech-stack">
                 Python2, Django, Angular5, Sass, Bootstrap, CircleCI, Docker
               </h6>
-              <p class="responsibilities">
+              <p>
                 As a client-facing consultant, employ and emulate Agile and TDD methodologies for a variety of software needs.
+              </p>
+              <p>
+                Draft strategy for hosting educational and .
               </p>
             </div>
 

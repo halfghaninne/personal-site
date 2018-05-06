@@ -74,6 +74,7 @@
   .icon:before {
     font-size: 120%;
   }
+
   .mobile-break {
     display: block;
   }
@@ -200,6 +201,98 @@ iframe {
 .caption.talks {
   width: 80%;
 }
+
+.resume-row:first-child {
+  margin-top: 0px;
+}
+
+.resume-row {
+  margin-top: 80px;
+}
+
+.resume-download {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  margin-top: 50px;
+}
+
+.resume-download a {
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+
+.btn-download {
+  color: white;
+  background-color: #79E3C4;
+  border-color: #75DBBD;
+}
+
+.btn-download:hover {
+  color: white;
+  opacity: .7;
+}
+
+.btn-download:focus, .btn-download.focus {
+  color: white;
+  opacity: .7;
+  background-color: #75DBBD;
+  border-color: #6BC9AE;
+}
+
+.resume-section-title {
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.resume-section-role {
+  margin-bottom: 35px;
+}
+
+.resume-section-role-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+ul.contact {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact li {
+  padding-left: 20px;
+}
+
+.contact a {
+  color: #79E3C4;
+}
+
+.contact a:hover {
+  opacity: 0.7;
+}
+
+.caption.resume-section .timeline {
+  font-style: italic;
+}
+
+.tech-stack, .expertise-area {
+  color: #BEC8CE;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+
+/*.caption.resume-section .responsibilities {
+  padding: 0;
+}*/
 
 .caption.journalism {
   width: 85%;

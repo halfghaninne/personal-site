@@ -1,9 +1,12 @@
-/*.art-image{
-  background: url("../public/KimberlyBailey-2.jpg");
-  background-size: auto 100%;
-  background-repeat: no-repeat;
-}*/
+.collapse.navbar-collapse {
+  margin-right: auto;
+  margin-left: auto;
+  width: 339px;
+}
 
+a {
+  color: #4ab8c4;
+}
 .navbar-bottom {
   display: none;
 }
@@ -15,26 +18,13 @@
 @media screen and (min-width: 1220px) {
   .art-image {
     background: url("../public/KimberlyBailey-2.jpg");
-    /*background-size: width height;*/
     background-size: 100% auto;
     background-repeat: no-repeat;
   }
 }
-@media screen and (max-width: 1220px) {
-  .art-image {
-    background: url("../public/KimberlyBailey-2.jpg");
-    /*background-size: width height;*/
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-  }
-}
+/*@media screen and (max-width: 1220px) {
+}*/
 @media screen and (max-width: 1130px) {
-  .art-image {
-    background: url("../public/KimberlyBailey-2.jpg");
-    /*background-size: width height;*/
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-  }
   #intro-text {
     text-align: left;
   }
@@ -45,10 +35,6 @@
   }
 }
 @media (max-width: 767px) {
-  .art-image {
-    background-position: center bottom;
-    padding-top: 0px;
-  }
   .roles-text {
     display: none;
   }
@@ -86,10 +72,6 @@
     margin-left: 0px;
     margin-right: 10px;
   }
-  /*.project-link:first-child:before{
-    content: "\A";
-    white-space: pre;
-  }*/
 }
 /* Responsive nav for mobile*/
 @media (max-width: 767px) {
@@ -97,17 +79,32 @@
     width: 100%;
   }
 }
-@media (max-width: 768px) {
-/*  .navbar-bottom {
-    display: none;
-  }*/
-}
+/*@media (max-width: 768px) {
+}*/
 
 .about-image {
   background: url("../public/teal.jpg");
-  /*background-size: width height;*/
   background-size: 100% auto;
   background-repeat: no-repeat;
+}
+
+.block.title {
+  padding-top: 80px;
+}
+.home-title {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  color: #DF3D35;
+  opacity: .6;
+}
+
+.home .emphasized {
+  font-weight: 550;
+  opacity: 0.7;
+  letter-spacing: .09em;
 }
 
 
@@ -120,7 +117,6 @@
   font-size: 16px;
 }
 
-/* trying to overwrite Bootstrap */
 .thumbnail {
   margin-bottom:50px;
   border: none;
@@ -150,8 +146,6 @@
 
 .intro-fixed {
   position: fixed;
-  /*right: 0;
-  left: 0;*/
   z-index: 1030;
 }
 
@@ -198,6 +192,14 @@ iframe {
   width: 80%;
 }
 
+.caption.home {
+  width:100%;
+  margin-top: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 16px;
+}
+
 .caption.talks {
   width: 80%;
 }
@@ -226,8 +228,8 @@ iframe {
 
 .btn-download {
   color: white;
-  background-color: #79E3C4;
-  border-color: #75DBBD;
+  background-color: #4ab8c4;
+  border-color: #3ea2ad;
 }
 
 .btn-download:hover {
@@ -238,8 +240,8 @@ iframe {
 .btn-download:focus, .btn-download.focus {
   color: white;
   opacity: .7;
-  background-color: #75DBBD;
-  border-color: #6BC9AE;
+  background-color: #3ea2ad;
+  border-color: #34919b;
 }
 
 .resume-section-title {
@@ -273,7 +275,7 @@ ul.contact {
 }
 
 .contact a {
-  color: #79E3C4;
+  color: #4ab8c4;
 }
 
 .contact a:hover {
@@ -285,14 +287,14 @@ ul.contact {
 }
 
 .tech-stack, .expertise-area {
-  color: #BEC8CE;
+  color: #a6aeb2;
   letter-spacing: .15em;
   text-transform: uppercase;
 }
 
-/*.caption.resume-section .responsibilities {
-  padding: 0;
-}*/
+.recommendation {
+  font-style: italic;
+}
 
 .caption.journalism {
   width: 85%;

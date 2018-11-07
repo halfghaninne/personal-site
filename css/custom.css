@@ -1,26 +1,35 @@
 .collapse.navbar-collapse {
   margin-right: auto;
   margin-left: auto;
-  width: 339px;
+  width: 416px;
 }
 
 a {
   color: #4ab8c4;
 }
-.navbar-bottom {
+.navbar-bottom, .navbar-mobile {
   display: none;
 }
+/*.navbar-mobile {
+  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
+  width: 339px;
+}*/
+/*.navbar-mobile.navbar-nav {
+  display: flex;
+}*/
 #intro-fill-in {
   height: 0px;
   visibility: hidden;
 }
 
 @media screen and (min-width: 1220px) {
-  .art-image {
+  /*.art-image {
     background: url("../public/KimberlyBailey-2.jpg");
     background-size: 100% auto;
     background-repeat: no-repeat;
-  }
+  }*/
 }
 /*@media screen and (max-width: 1220px) {
 }*/
@@ -53,6 +62,9 @@ a {
     display: block;
     margin-bottom: 0px;
   }
+  .navbar-mobile {
+    display: block;
+  }
   .bottom-nav-flex {
     display: flex;
     justify-content: center;
@@ -81,12 +93,6 @@ a {
 }
 /*@media (max-width: 768px) {
 }*/
-
-.about-image {
-  background: url("../public/teal.jpg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-}
 
 .block.title {
   padding-top: 80px;
@@ -178,7 +184,7 @@ iframe {
   }
 }
 
-.thumbnail.talks {
+.thumbnail.talks, .thumbnail.writing {
   width: 75%;
   margin-right: auto;
   margin-left: auto;
@@ -200,9 +206,29 @@ iframe {
   font-size: 16px;
 }
 
-.caption.talks {
+.caption.talks, .caption.writing {
   width: 80%;
 }
+
+.writing .block-lg-middle {
+  padding-top: 0;
+}
+
+.thumbnail.writing {
+  margin-bottom: 30px;
+}
+
+.thumbnail.writing:first-child {
+  padding-top: 0;
+}
+
+.caption.writing:first-child {
+  padding-top: 0;
+}
+/*
+.caption.writing h3:first-child{
+  margin-top: 0;
+}*/
 
 .resume-row:first-child {
   margin-top: 0px;

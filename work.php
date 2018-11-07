@@ -11,18 +11,33 @@
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">
-            <span>Developer, Carbon Five</span>
+            <span>Web Application Developer, Newsela</span>
             <span class="timeline">2018 - present</span>
+          </h3>
+          <h6 class="tech-stack">
+            React, Redux, Python2, Django, Sass, CSS-in-JS, CircleCI, Docker
+          </h6>
+          <p>
+            Help maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Developer, Carbon Five</span>
+            <span class="timeline">2018</span>
           </h3>
           <h6 class="tech-stack">
             Open source, React, Emotion.js, Python2, Django, Angular5, Sass, Bootstrap, CircleCI, Docker
           </h6>
           <p>
-            As a client-facing consultant, contribute Agile methodologies and custom full-stack software solutions for a variety of business needs:
-            <br>
-            Executing a re-write to pure React and data styling with Emotion.js for <a href="https://github.com/Autodesk/hig" target="_blank">Autodesk's open-source design system.</a>
-            <br>
-            Designed a point-of-sale system API which integrated complex business logic in order to provide a seamless, personalized in-store experience. 
+            As a client-facing consultant, contributed Agile methodologies and custom full-stack software solutions for a variety of business needs.
+          </p>
+          <p>
+            Executed a re-write to pure React and data styling with Emotion.js for <a href="https://github.com/Autodesk/hig" target="_blank">Autodesk's open-source design system.</a>
+          </p>
+          <p>
+            Designed a point-of-sale system API which integrated complex business logic in order to provide a seamless, personalized in-store experience for a startup in the orthodontic aligner space. 
           </p>
         </div>
 

@@ -14,7 +14,7 @@
               I'm a programmer and coding instructor who believes in bringing my full self to work.
             </p>
             <p>
-              In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes. I pride myself on the philosopical integrity of my work and am always interested in contributing to technical projects rooted in intention and community.
+              In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes. I pride myself on the philosophical integrity of my work and am always interested in contributing to technical projects rooted in intention and community.
             </p>
             <p>
               Ask me about any of the following to see my entire face light up:

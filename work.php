@@ -88,40 +88,6 @@
       </div>
     </div>
 
-    <!-- <div class="row resume-row">
-      <div class="caption resume-section">
-        <h2 class="resume-section-title">
-          Open Source
-        </h2>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Contributor, New Sanctuary Coalition</span>
-            <span class="timeline">2018 - present</span>
-          </h3>
-          <h6 class="tech-stack">
-            Ruby on Rails
-          </h6>
-          <p>
-            <a href="https://github.com/CZagrobelny/new_sanctuary_asylum">Contribute</a> time-sensitive bug fixes and feature improvements to <a href="http://www.newsanctuarynyc.org/">New Sanctuary Coalition's</a> internal volunteer and case management system.
-          </p>
-        </div>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Contributor, Dev.to</span>
-            <span class="timeline">2018 - present</span>
-          </h3>
-          <h6 class="tech-stack">
-            Ruby on Rails
-          </h6>
-          <p>
-            <a href="https://github.com/thepracticaldev/dev.to">Assist development</a> of technical blogging platform <a href="https://dev.to/">Dev.to</a> by self-assigning and submitting work on requested improvements.
-          </p>
-        </div>
-      </div>
-    </div> -->
-
     <div class="row resume-row">
       <div class="caption resume-section">
         <h2 class="resume-section-title">
@@ -214,58 +180,11 @@
       </div>
     </div>
 
-    <!-- <div class="row resume-row">
-      <div class="caption resume-section">
-        <h2 class="resume-section-title">
-          Open Source
-        </h2>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Individual Contributor, New Sanctuary Coalition</span>
-            <ul class="contact">
-              <li><a href="https://github.com/CZagrobelny/new_sanctuary_asylum" target="_blank"><span class="icon icon-github"></span></a></li>
-              <li><a href="http://www.newsanctuarynyc.org/" target="_blank"><span class="icon icon-mouse-pointer"></span></a></li>
-            </ul>
-          </h3>
-          <h6 class="expertise-area">
-            Ruby on Rails, HTML, CSS
-          </h6>
-        </div>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Individual Contributor, Dev.to</span>
-            <ul class="contact">
-              <li><a href="https://github.com/thepracticaldev/dev.to" target="_blank"><span class="icon icon-github"></span></a></li>
-              <li><a href="https://dev.to/" target="_blank"><span class="icon icon-mouse-pointer"></span></a></li>
-            </ul>
-          </h3>
-          <h6 class="expertise-area">
-            Ruby on Rails, HTML, CSS, Preact
-          </h6>
-        </div>
-      </div>
-    </div> -->
-
     <div class="row resume-row">
       <div class="caption resume-section">
         <h2 class="resume-section-title">
           Education
         </h2>
-
-        <!-- <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>University of Washington</span>
-            <span class="timeline">2018-2019</span>
-          </h3>
-          <h6 class="expertise-area">
-            Coursera Online Certificate Program
-          </h6>
-          <p class="responsibilities">
-            As part of the Machine Learning Specialization, completed coursework in Regression, Classification, and Clustering & Retrieval.
-          </p>
-        </div> -->
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">

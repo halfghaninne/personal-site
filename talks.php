@@ -23,7 +23,7 @@
           <div class="caption talks">
             <h3>"Why Not Get Paid to 'Protest'? Making Your Workplace Work for You in the Trump Era"</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, a national conference focused on empowering women, trans, and non-binary software engineers.</p>
+            <p>Spoke on balancing political and professional obligations at Write/Speak/Code, a national conference focused on empowering women, trans, and non-binary software engineers.</p>
           </div>
         </div>
       </div>

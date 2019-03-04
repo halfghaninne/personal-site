@@ -101,14 +101,14 @@
           ">
             <a class="nav-link" href="./talks">Talks</a>
           </li>
-          <li class="nav-item
+          <!-- <li class="nav-item
             <?php
-              if ($active && $active == "writing")
-                echo "active";
+              // if ($active && $active == "writing")
+              //   echo "active";
             ?>
           ">
             <a class="nav-link" href="./writing">Writing</a>
-          </li>
+          </li> -->
         </ul>
       </div>
   </nav>

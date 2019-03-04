@@ -3,7 +3,8 @@
 
 <div class="container writing">
   <div class="block block-fill-height">
-    <div class="block-lg-middle">
+    <!-- <div class="block-lg-middle"> -->
+    <div>
 
       <div class="row">
         <div class="thumbnail writing">

@@ -15,10 +15,10 @@
             <span class="timeline">2018 - present</span>
           </h3>
           <h6 class="tech-stack">
-            React, Redux, Python2, Django, Sass, CSS-in-JS, CircleCI, Docker
+            React, Redux, Python2, Django, A/B Testing, Kinesis, Sass, CSS-in-JS, CircleCI, Docker
           </h6>
           <p>
-            Help maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
+            Maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
           </p>
         </div>
 
@@ -88,6 +88,40 @@
       </div>
     </div>
 
+    <!-- <div class="row resume-row">
+      <div class="caption resume-section">
+        <h2 class="resume-section-title">
+          Open Source
+        </h2>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Contributor, New Sanctuary Coalition</span>
+            <span class="timeline">2018 - present</span>
+          </h3>
+          <h6 class="tech-stack">
+            Ruby on Rails
+          </h6>
+          <p>
+            <a href="https://github.com/CZagrobelny/new_sanctuary_asylum">Contribute</a> time-sensitive bug fixes and feature improvements to <a href="http://www.newsanctuarynyc.org/">New Sanctuary Coalition's</a> internal volunteer and case management system.
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Contributor, Dev.to</span>
+            <span class="timeline">2018 - present</span>
+          </h3>
+          <h6 class="tech-stack">
+            Ruby on Rails
+          </h6>
+          <p>
+            <a href="https://github.com/thepracticaldev/dev.to">Assist development</a> of technical blogging platform <a href="https://dev.to/">Dev.to</a> by self-assigning and submitting work on requested improvements.
+          </p>
+        </div>
+      </div>
+    </div> -->
+
     <div class="row resume-row">
       <div class="caption resume-section">
         <h2 class="resume-section-title">
@@ -97,26 +131,16 @@
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">
             <span>Organizer, Write/Speak/Code Conference</span>
-            <span class="timeline">2018</span>
+            <span class="timeline">2018 - present</span>
           </h3>
           <h6 class="expertise-area">
             Events, Diversity & Inclusion, Mentorship, Open Source, Technical Speaking
           </h6>
           <p>
-            Helped with speaker selection, support, and conference logistics for the 2018 Write/Speak/Code conference, an international event for 300+ software engineers.
+            Helped with speaker selection, attendee support, sponsorship, and conference logistics for the 2018 Write/Speak/Code conference, a national event for 300+ software engineers.
           </p>
-        </div>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Mentor, Code2040</span>
-            <span class="timeline">2018</span>
-          </h3>
-          <h6 class="expertise-area">
-            Diversity & Inclusion, Mentorship
-          </h6>
+            Invited by board members to return as an organizer for the 2019 conference.
           <p>
-            Provided support for the Code2040 Fellow program, including weekly meetings with a dedicated collegiate mentee and career coaching for members of the NYC cohort. 
           </p>
         </div>
 
@@ -143,6 +167,19 @@
           </h6>
           <p>
             Address code of conduct violations for Mystery Code Society, an Omaha-based non-profit providing rigorous and free coding curriculum for women, femmes, and non-men.
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Mentor, Code2040</span>
+            <span class="timeline">2018</span>
+          </h3>
+          <h6 class="expertise-area">
+            Diversity & Inclusion, Mentorship
+          </h6>
+          <p>
+            Provided support for the Code2040 Fellow program, including weekly meetings with a dedicated collegiate mentee and career coaching for members of the NYC cohort. 
           </p>
         </div>
 
@@ -177,11 +214,58 @@
       </div>
     </div>
 
+    <!-- <div class="row resume-row">
+      <div class="caption resume-section">
+        <h2 class="resume-section-title">
+          Open Source
+        </h2>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Individual Contributor, New Sanctuary Coalition</span>
+            <ul class="contact">
+              <li><a href="https://github.com/CZagrobelny/new_sanctuary_asylum" target="_blank"><span class="icon icon-github"></span></a></li>
+              <li><a href="http://www.newsanctuarynyc.org/" target="_blank"><span class="icon icon-mouse-pointer"></span></a></li>
+            </ul>
+          </h3>
+          <h6 class="expertise-area">
+            Ruby on Rails, HTML, CSS
+          </h6>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Individual Contributor, Dev.to</span>
+            <ul class="contact">
+              <li><a href="https://github.com/thepracticaldev/dev.to" target="_blank"><span class="icon icon-github"></span></a></li>
+              <li><a href="https://dev.to/" target="_blank"><span class="icon icon-mouse-pointer"></span></a></li>
+            </ul>
+          </h3>
+          <h6 class="expertise-area">
+            Ruby on Rails, HTML, CSS, Preact
+          </h6>
+        </div>
+      </div>
+    </div> -->
+
     <div class="row resume-row">
       <div class="caption resume-section">
         <h2 class="resume-section-title">
           Education
         </h2>
+
+        <!-- <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>University of Washington</span>
+            <span class="timeline">2018-2019</span>
+          </h3>
+          <h6 class="expertise-area">
+            Coursera Online Certificate Program
+          </h6>
+          <p class="responsibilities">
+            As part of the Machine Learning Specialization, completed coursework in Regression, Classification, and Clustering & Retrieval.
+          </p>
+        </div> -->
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">

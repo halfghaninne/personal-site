@@ -8,13 +8,13 @@
             Hi, I'm Alex.
           </h1>
           <div class="thumbnail talks">
-            <img src="public/main.png" alt="Image by Kimberly Dovi">
+            <img src="public/main-debbie.png" alt="Image by Debbie Lemonte">
             <div class="caption home">
             <p class="emphasized">
               I'm a programmer and coding instructor who believes in bringing my full self to work.
             </p>
             <p>
-              In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes. I pride myself on the philosopical integrity of my work and am always interested in working on technical projects rooted in intention and communtiy.
+              In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes. I pride myself on the philosopical integrity of my work and am always interested in contributing to technical projects rooted in intention and community.
             </p>
             <p>
               Ask me about any of the following to see my entire face light up:

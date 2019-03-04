@@ -5,13 +5,25 @@
   <div class="block block-fill-height">
     <div class="block-lg-middle">
 
+    <div class="row">
+        <div class="thumbnail talks">
+          <img src="public/railsconf.png">
+          <div class="caption talks">
+            <h3>"Mentoring the way to a more diverse and inclusive workplace"</h3>
+            <p class="project-role"><a href="https://railsconf.com/program/sessions#session-819">RailsConf 2019</a></p>
+            <p>Accepted to speak on the value of mentorship efforts in terms of their impact on the ability to attract and retain diversity.</p>
+            <p>RailsConf is the largest gathering of Rubyists in the world, with a speaker acceptance rate of less than 19%.</p>
+          </div>
+        </div>
+      </div>
+
       <div class="row">
         <div class="thumbnail talks">
           <img src="public/wsc.png">
           <div class="caption talks">
             <h3>"Why Not Get Paid to 'Protest'? Making Your Workplace Work for You in the Trump Era"</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, an international conference focused on empowering women and non-binary software engineers.</p>
+            <p>Accepted to speak on balancing political and professional obligations at Write/Speak/Code, a national conference focused on empowering women, trans, and non-binary software engineers.</p>
           </div>
         </div>
       </div>

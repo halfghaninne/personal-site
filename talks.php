@@ -8,11 +8,31 @@
     <div class="row">
         <div class="thumbnail talks">
           <img src="public/railsconf.png">
+          <!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd0JObpgBjdgdNxiFxoFL4H-UedQ2Lr2oPOGmN5aJNQh-lWD9jW59Ej8GiNbEG0EI4kA25SVCLnQBN/embed?start=false&loop=false&delayms=3000"
+            frameborder="0"
+            width="960"
+            height="569"
+            allowfullscreen="true"
+            mozallowfullscreen="true"
+            webkitallowfullscreen="true"
+          ></iframe> -->
           <div class="caption talks">
             <h3>"Mentoring the way to a more diverse and inclusive workplace"</h3>
-            <p class="project-role"><a href="https://railsconf.com/program/sessions#session-819">RailsConf 2019</a></p>
-            <p>Accepted to speak on the value of mentorship efforts in terms of their impact on the ability to attract and retain diversity.</p>
-            <p>RailsConf is the largest gathering of Rubyists in the world, with a speaker acceptance rate of less than 19%.</p>
+            <p class="project-role">
+              <span>
+                <a href="https://railsconf.com/program/sessions#session-819" target="_blank">RailsConf 2019</a>,
+                <a href="https://refactr.tech/detail/speakers.html#alexandra-millatmal" target="_blank">Refactr 2019</a>,
+                <a href="https://abstractions.io/" target="_blank">Abstractions II</a>
+              </span>
+               --
+              <span>
+                <span>&#x1F3A5</span>
+                <a href="https://docs.google.com/presentation/d/e/2PACX-1vTd0JObpgBjdgdNxiFxoFL4H-UedQ2Lr2oPOGmN5aJNQh-lWD9jW59Ej8GiNbEG0EI4kA25SVCLnQBN/embed?start=false&loop=false&delayms=3000" target="_blank">
+                  Slides
+                </a>
+              </span>
+            </p>
+            <p>A conversation on considering the value of mentorship efforts in terms of their impact on the ability to attract and retain diversity.</p>
           </div>
         </div>
       </div>

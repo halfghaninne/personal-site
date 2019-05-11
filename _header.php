@@ -12,9 +12,9 @@
 
     <title>Alexandra Millatmal</title>
 
-      <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
-      <link href="css/toolkit-minimal.css" rel="stylesheet">
-      <link href="css/custom.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
+    <link href="css/toolkit-minimal.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
   </head>
 
 

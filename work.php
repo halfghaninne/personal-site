@@ -20,6 +20,9 @@
           <p>
             Maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
           </p>
+          <p>
+            As part of the Wire team, support editors and writers by developing a digital publishing suite that will better-support their workflows and allow for the addition of more-dynamic types of content.
+          </p>
         </div>
 
         <div class="resume-section-role">

@@ -7,22 +7,16 @@
 
     <div class="row">
         <div class="thumbnail talks">
-          <img src="public/railsconf.png">
-          <!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd0JObpgBjdgdNxiFxoFL4H-UedQ2Lr2oPOGmN5aJNQh-lWD9jW59Ej8GiNbEG0EI4kA25SVCLnQBN/embed?start=false&loop=false&delayms=3000"
-            frameborder="0"
-            width="960"
-            height="569"
-            allowfullscreen="true"
-            mozallowfullscreen="true"
-            webkitallowfullscreen="true"
-          ></iframe> -->
+          <iframe src="https://www.youtube.com/embed/l2yKpQ1vo7A"></iframe>
           <div class="caption talks">
             <h3>"Mentoring the way to a more diverse and inclusive workplace"</h3>
             <p class="project-role">
               <span>
-                <a href="https://railsconf.com/program/sessions#session-819" target="_blank">RailsConf 2019</a>,
+                <a href="https://www.youtube.com/watch?v=l2yKpQ1vo7A" target="_blank">RailsConf 2019</a>,
                 <a href="https://refactr.tech/detail/speakers.html#alexandra-millatmal" target="_blank">Refactr 2019</a>,
-                <a href="https://abstractions.io/" target="_blank">Abstractions II</a>
+                <a href="http://brooklynjs.com/" target="_blank">BrooklynJS</a>,
+                <a href="https://abstractions.io/" target="_blank">Abstractions II</a>,
+                <a href="https://theleaddeveloper.com/meetup" target="_blank">Lead Dev Meetup</a>
               </span>
                --
               <span>
@@ -32,7 +26,7 @@
                 </a>
               </span>
             </p>
-            <p>A conversation on considering the value of mentorship efforts in terms of their impact on the ability to attract and retain diversity.</p>
+            <p>A conversation on considering the value of mentorship efforts in terms of their impact on the ability to attract and retain diversity. Adaptable to 20, 30, and 40-minute presentations.</p>
           </div>
         </div>
       </div>
@@ -43,7 +37,7 @@
           <div class="caption talks">
             <h3>"Why Not Get Paid to 'Protest'? Making Your Workplace Work for You in the Trump Era"</h3>
             <p class="project-role"><a href="https://2017.writespeakcode.com/index.html#schedule">Write Speak Code 2017</a></p>
-            <p>Spoke on balancing political and professional obligations at Write/Speak/Code, a national conference focused on empowering women, trans, and non-binary software engineers.</p>
+            <p>Spoke on balancing political and professional obligations at Write/Speak/Code, a national conference focused on empowering women, trans, and non-binary technologists.</p>
           </div>
         </div>
       </div>

@@ -11,15 +11,25 @@
             <img src="public/main-debbie.png" alt="Image by Debbie Lemonte">
             <div class="caption home">
             <p class="emphasized">
-              I'm a programmer and coding instructor who believes in bringing my full self to work.
+              I'm a programmer with a passion for work that has real-world impact.
             </p>
             <p>
-              In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes. I pride myself on the philosophical integrity of my work and am always interested in contributing to technical projects rooted in intention and community.
+              Currently, I build product at Newsela, a company focused on fostering literacy by tailoring real-world content to students' individual reading levels.
             </p>
             <p>
+              I came to coding after an award-winning career in journalism, where I structured online conversations around international politics. 
+            </p>
+            <p>
+              Now in tech, I'm ever-learning new programming techniques and technologies and pride myself on the usefulness and philosophical integrity of my work. In the past four years, I've worked on a variety of modern web stacks, from an open-source design system in React to a greenfield Rails application to help code schools better track student outcomes.
+            </p>
+            <p>
+              When I'm not thinking about good object-oriented programming patterns, I spend a lot of time thinking about secular space and discourse, bias detection, and the ethics of communicating "othered" experiences.
+            </p>
+            <p class="spaced">
               Ask me about any of the following to see my entire face light up:
             </p>
             <p>
+              <!-- <span>&#x1F4D6</span> <a href="https://www.goodreads.com/review/list/85688599-alexandra-millatmal?shelf=currently-reading" target="_blank">my current commute reads</a><br> -->
               <span>&#x1F4F0</span> the award-winning live television show I helped produce for Al Jazeera English<br>
               <span>&#x1F41F</span> travel recommendations in Tunisia<br>
               <span>&#x1F33D</span> progressive organizing in Nebraska<br>

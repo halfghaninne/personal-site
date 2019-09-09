@@ -15,7 +15,7 @@
             <span class="timeline">2018 - present</span>
           </h3>
           <h6 class="tech-stack">
-            React, Redux, Python2, Django, A/B Testing, Kinesis, Sass, CSS-in-JS, CircleCI, Docker
+            React, Redux, GraphQL, Python3, Django, A/B Testing, Kinesis, Sass, CSS-in-JS, CircleCI, Docker
           </h6>
           <p>
             Maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.

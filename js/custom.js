@@ -25,20 +25,39 @@ function loadDescriptors() {
     }
 }
 
+function cycleGreeting() {
+  var greetings = ["Salaam, I'm Alex.", "Hi, I'm Alex."];
+  var placeholder;
+  var greeting = document.getElementById("greeting");
+  if (greeting) {
+    var i = 0;
+    placeholder = setInterval(function(){
+      console.log(greetings[i]);
+      greeting.innerHTML = greetings[i];
+      i++;
+      if (i == greetings.length) {
+        i = 0;
+        // clearInterval(placeholder);
+      }
+    }, 3000);
+  }
+}
+
 // function loopDescriptors(array) {
 // }
 
 window.onload = function(){
-  var introFillIn = document.getElementById("intro-fill-in");
-  if (introFillIn.visibility != "hidden") {
-    if (localStorage.getItem("hasCodeRunBefore") === null) {
-        setTimeout(loadDescriptors(), 2500);
-        localStorage.setItem("hasCodeRunBefore", true);
-    } else {
-      // console.log(navigator.userAgent.indexOf("Safari") != -1);
-      introFillIn.style.textAlign = "-webkit-right";
-      // introFillIn.style = "text-align: -webkit-center";
-      introFillIn.innerHTML = "<a href='./code.php'>code</a><br><a href='./journalism.php'>journalism</a><br><a href='./talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
-    }; 
-  };
+  cycleGreeting();
+  // var introFillIn = document.getElementById("intro-fill-in");
+  // if (introFillIn.visibility != "hidden") {
+  //   if (localStorage.getItem("hasCodeRunBefore") === null) {
+  //       setTimeout(loadDescriptors(), 2500);
+  //       localStorage.setItem("hasCodeRunBefore", true);
+  //   } else {
+  //     // console.log(navigator.userAgent.indexOf("Safari") != -1);
+  //     introFillIn.style.textAlign = "-webkit-right";
+  //     // introFillIn.style = "text-align: -webkit-center";
+  //     introFillIn.innerHTML = "<a href='./code.php'>code</a><br><a href='./journalism.php'>journalism</a><br><a href='./talks.php'>talks</a><br><a href='./resume.php'>résumé</a>";
+  //   }; 
+  // };
 };

@@ -4,7 +4,7 @@
   <div class="container">
     <div class="block title">
       <div class="block-lg-top">
-          <h1 class="home-title">
+          <h1 class="home-title" id="greeting">
             Hi, I'm Alex.
           </h1>
           <div class="thumbnail talks">

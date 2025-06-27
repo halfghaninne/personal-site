@@ -11,17 +11,48 @@
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">
-            <span>Web Application Developer, Newsela</span>
-            <span class="timeline">2018 - present</span>
+            <span>Senior Software Engineer, <em>The New York Times</em></span>
+            <span class="timeline">2022 - present</span>
+          </h3>
+          <h6 class="tech-stack">
+            React, ProseMirror, TypeScript, Apollo, GraphQL, Go, WCAG/A11Y, Design Systems, Platforms, CI/CD, AWS, Docker
+          </h6>
+          <p>
+            As a part of a re-platforming effort of <em>The Times’</em> publication systems, help develop a flexible set of plug-and-play rich-text editing and publishing tools that work across the company’s ecosystem. 
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Senior Software Engineer, Newsela</span>
+            <span class="timeline">2021 - 2022</span>
+          </h3>
+          <h6 class="tech-stack">
+            React, ProseMirror, Apollo, GraphQL, Node, Django, Python3, WCAG/A11Y, Kinesis, Sass, CSS-in-JS, CircleCI, Docker
+          </h6>
+          <p>
+            As a member of the CMS team, planned and executed technical projects to mature our bespoke content management system, Alexandria.
+          </p>
+          <p>
+            Built expertise in ProseMirror, an industry-standard rich text-editing library, by implementing scopes of work and technical architecting of new custom features. This work included lots of fun stuff, like extending the ProseMirror source code, making refactoring decisions to generalize our implementation of the editor, and executing multi-sprint epics for business-critical feature work.
+          </p>
+          <p>
+            Developed team processes to aid collaboration, such as standing pair programming blocks and an on-call rotation during working hours.          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Software Engineer, Newsela</span>
+            <span class="timeline">2018 - 2021</span>
           </h3>
           <h6 class="tech-stack">
             React, Redux, GraphQL, Python3, Django, A/B Testing, Kinesis, Sass, CSS-in-JS, CircleCI, Docker
           </h6>
           <p>
-            Maintain and build product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
+            Maintained and built product at <a href="https://newsela.com/" target="_blank">Newsela</a>, an instructional content platform that helps students read by delivering articles and comprehension assessments tailored to their individual reading levels.
           </p>
           <p>
-            As part of the Wire team, support editors and writers by developing a digital publishing suite that will better-support their workflows and allow for the addition of more-dynamic types of content.
+            As a member of the CMS team, supported editors and writers by executing a rewrite of our digital publishing suite that prioritizes flexibility and evolution of our content offerings, better-supporting publishing workflows, and allowing for the addition of more dynamic types of content. Saw the project from a greenfield phase to full maturity, with a majority of content being produced in our new CMS.
           </p>
         </div>
 
@@ -94,13 +125,90 @@
     <div class="row resume-row">
       <div class="caption resume-section">
         <h2 class="resume-section-title">
+          Education
+        </h2>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>The Graduate Center, City University of New York</span>
+            <span class="timeline">2024 - present</span>
+          </h3>
+          <h6 class="expertise-area">
+            M.A. Candidate, Digital Humanities
+          </h6>
+          <p class="responsibilities">
+            Building technical projects with impact in the humanities and academia, using open source and specialized tools like Wax, Dédalo, and Tableau.
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Omaha Code School</span>
+            <span class="timeline">Spring 2015</span>
+          </h3>
+          <h6 class="expertise-area">
+            Accelerated Certificate Program
+          </h6>
+          <p class="responsibilities">
+            Full-stack development training in SQL, PostgreSQL, Ruby, Sinatra, Ruby on Rails, HTML5, CSS3, JavaScript, AJAX, and version control with git/Github. Additional experience with: MongoDB, Agile development, API integration, third-party authentication, and data visualization (Mapbox, Chartkick).
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Nebraska Wesleyan University</span>
+            <span class="timeline">2007 - 2012</span>
+          </h3>
+          <h6 class="expertise-area">
+            B.A., Political Science & Religion
+          </h6>
+          <p>
+            Minors: Mathematics and Gender Studies.
+          </p>
+          <p>
+            Semester of research in Tunis with the School for International Training, Spring 2011.<br>
+            Communications Intern for the Middle East Institute in Washington DC, Fall 2011.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row resume-row">
+      <div class="caption resume-section">
+        <h2 class="resume-section-title">
           Community
         </h2>
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">
+            <span>Program Committee Member, RubyConf</span>
+            <span class="timeline">2020</span>
+          </h3>
+          <h6 class="expertise-area">
+            Events, Technical Speaking
+          </h6>
+          <p>
+            TK
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
+            <span>Mentor, Out in Tech U</span>
+            <span class="timeline">2020</span>
+          </h3>
+          <h6 class="expertise-area">
+            Curriculum Building, Diversity & Inclusion, Mentorship
+          </h6>
+          <p>
+            TK
+          </p>
+        </div>
+
+        <div class="resume-section-role">
+          <h3 class="resume-section-role-title">
             <span>Organizer, Write/Speak/Code Conference</span>
-            <span class="timeline">2018 - present</span>
+            <span class="timeline">2018 - 2020</span>
           </h3>
           <h6 class="expertise-area">
             Events, Diversity & Inclusion, Mentorship, Open Source, Technical Speaking
@@ -108,15 +216,15 @@
           <p>
             Helped with speaker selection, attendee support, sponsorship, and conference logistics for the 2018 Write/Speak/Code conference, a national event for 300+ software engineers.
           </p>
-            Invited by board members to return as an organizer for the 2019 conference.
           <p>
+            Invited by board members to return as an organizer for the 2019 conference.
           </p>
         </div>
 
         <div class="resume-section-role">
           <h3 class="resume-section-role-title">
             <span>Volunteer, RailsBridge NYC</span>
-            <span class="timeline">2018 - present</span>
+            <span class="timeline">2018 - 2020</span>
           </h3>
           <h6 class="expertise-area">
             Diversity & Inclusion, Tech Education
@@ -178,44 +286,6 @@
           </h6>
           <p>
             Organized and implemented monthly events for the group of over 200 new and mid-level developers in which members could network, share their unique skills, and practice delivering technical talks to peers.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="row resume-row">
-      <div class="caption resume-section">
-        <h2 class="resume-section-title">
-          Education
-        </h2>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Omaha Code School</span>
-            <span class="timeline">Spring 2015</span>
-          </h3>
-          <h6 class="expertise-area">
-            Accelerated Certificate Program
-          </h6>
-          <p class="responsibilities">
-            Full-stack development training in SQL, PostgreSQL, Ruby, Sinatra, Ruby on Rails, HTML5, CSS3, JavaScript, AJAX, and version control with git/Github. Additional experience with: MongoDB, Agile development, API integration, third-party authentication, and data visualization (Mapbox, Chartkick).
-          </p>
-        </div>
-
-        <div class="resume-section-role">
-          <h3 class="resume-section-role-title">
-            <span>Nebraska Wesleyan University</span>
-            <span class="timeline">2007 - 2012</span>
-          </h3>
-          <h6 class="expertise-area">
-            B.A., Political Science & Religion
-          </h6>
-          <p>
-            Minors: Mathematics and Gender Studies.
-          </p>
-          <p>
-            Semester of research in Tunis with the School for International Training, Spring 2011.<br>
-            Communications Intern for the Middle East Institute in Washington DC, Fall 2011.
           </p>
         </div>
       </div>

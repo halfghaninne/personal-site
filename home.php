@@ -14,7 +14,7 @@
               I'm an experienced software engineer with a passion for work that has real-world impact.
             </p>
             <p>
-              Since 2021, I've been building expertise in creating bespoke content-management systems and rich text editors. I currently am help re-platform <em>The New York Times'</em> publishing system, Scoop.
+              Since 2021, I've been building expertise in bespoke content-management systems and rich text editors. My current work involves rearchitecting the collaborative editing and publishing tools that power much of <em>The New York Times'</em> content. 
             </p>
             <p>
               Previously, I built product at Newsela, a company focused on fostering literacy by tailoring real-world content to students' individual reading levels.

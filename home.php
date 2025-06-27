@@ -33,7 +33,7 @@
             </p>
             <p>
               <!-- <span>&#x1F4D6</span> <a href="https://www.goodreads.com/review/list/85688599-alexandra-millatmal?shelf=currently-reading" target="_blank">my current commute reads</a><br> -->
-              <span>&#x1270D</span> speculative fiction as a liberatory practice for diaspora communities<br>
+              <span>✍🏼</span> speculative fiction as a liberatory practice for diaspora communities<br>
               <span>&#x1F4F0</span> the award-winning live television show I helped produce for Al Jazeera English<br>
               <span>&#x1F41F</span> travel recommendations in Tunisia<br>
               <span>&#x1F33D</span> progressive organizing in Nebraska<br>

@@ -134,7 +134,7 @@
             <span class="timeline">2024 - present</span>
           </h3>
           <h6 class="expertise-area">
-            M.A. Candidate, Digital Humanities
+            M.A. Candidate, Digital Humanities ● 4.0 GPA
           </h6>
           <p class="responsibilities">
             Building technical projects with impact in the humanities and academia, using open source and specialized tools like Wax, Dédalo, and Tableau.
